@@ -1,2 +1,18 @@
+
 # Mortgage-Calculator
-This is a loan calculator that allows you to calculate how much you would pay for a mortgage worth a certain amount given the interest rate and period the loan will take.
+
+## Description
+
+This is a simple mortage calculator that can be used by anyone.
+It allows you to input the Loan Amount you want to borrow, interest rate and the period it would take you to pay.
+
+It calculates how much you would pay monthly as well as the total loan amount you will pay.
+
+
+## Formula
+
+![ScreenShot of the formula](./screenshot/formula.jpeg)
+
+## Author
+
+Anne Kamau.
